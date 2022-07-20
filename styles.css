@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+body {
+    color: #72f542;
+    background-color: black;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+}
+
+footer {
+    padding-top: 40px;
+}
+
+footer a {
+    color: white;
+}
+
+#mainHeading {
+    color: red;
+    width: 35%;
+    margin: auto;
+}
+
+#mainHeading img {
+    padding: 100px 0px 50px 0px;
+}
+
+#mainHeading marquee {
+    margin: 0px 10%;
+}
+
+#hakk-list {
+    color: yellow;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#proof h2 {
+    color: aquamarine;
+}
+
+#testP.funParagraph {
+    color: green;
+    width: 40%;
+    margin: auto;
+}
+
+.new-section{
+    padding-top: 50px;
+}
+
+.new-section h2 {
+    color: #517cfc;
+}
+
+.hakk {
+    padding-bottom: 25px;
+}
+
+.hakk h3 {
+    color: yellow;
+    font-style: italic;
+}
+
+.hakk p {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+.hakk img {
+    width: 50%;
+}
